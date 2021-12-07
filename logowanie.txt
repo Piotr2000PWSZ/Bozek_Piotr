@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-hasło :: 12345
-=======
-hasło :: 54321
->>>>>>> c4c701c (Ustawienie hasła User_1)
 
 hasło :: 55555
